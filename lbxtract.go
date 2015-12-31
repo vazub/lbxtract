@@ -1,3 +1,7 @@
+// Copyright 2015-2016 Vasyl Zubko. All rights reserved.
+// Distributed under the terms of the MIT License, 
+// that can be found in the LICENSE file.
+
 // LBXtract reads and extracts data from the proprietary .LBX file format
 // used in some Simtex/Microprose games, namely Master of Magic,
 // Master of Orion and Master of Orion 2
