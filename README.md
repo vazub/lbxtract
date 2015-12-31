@@ -7,12 +7,12 @@ The tool itself is console-based and written in Go programming language, and the
 
 This application has been made possible thanks to the efforts of those who had previously investigated and documented major parts of the LBX format, as provided by [this wiki](http://www.shikadi.net/moddingwiki/LBX_Format) page.
 
-# Games supported #
+## Games supported ##
 - Master of Magic (1994)
 - Master of Orion (1993)
 - Master of Orion 2: Battle at Antares (1996)
 
-# Usage #
+## Usage ##
 It is assumed, that you have a working Go environment already set up. It not, consult the official guidelines at http://golang.org
 
 Get the source code:
@@ -32,5 +32,5 @@ $ ./lbxtract path-to-data-folder
 ```
 You will find your output data in <**EXTRACTED/name-of-original-lbx**> folders within the data directory you pointed LBXtract to. The files will be named according to the original metadata info provided and given specific file extentions (.SMK, .VOC, .WAV, .XMI) when applicable.
 
-# License #
+## License ##
 The source code for this application is provided under the terms of MIT License found in the [LICENSE](./LICENSE) file.
