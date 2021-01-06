@@ -1,6 +1,3 @@
-# IMPORTANT: This repo has moved to [Gitlab](https://gitlab.com/vazub/lbxtract)
----
-
 # LBXtract #
 [![GoDoc](https://godoc.org/github.com/vazub/lbxtract?status.svg)](https://godoc.org/github.com/vazub/lbxtract)
 
